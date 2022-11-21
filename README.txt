@@ -1,6 +1,6 @@
-Creative Design Free Bootstrap 4 landing page Template for personal and commercial use. Designed with ♥️ and creativity by Devcrud.com 
+Bootstrap Landing page, designd for scribe studio uganda.
 
-Product Page: https://wwww.devcrud.com/
+
 
 Credits:
 
