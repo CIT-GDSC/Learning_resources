@@ -1,4 +1,4 @@
-Bootstrap Landing page, designd for scribe studio uganda.
+Bootstrap Landing page, designed for scribe studio uganda.
 
 
 
